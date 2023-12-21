@@ -95,4 +95,4 @@ Thank you for all CS50.
 - Where I get CS50 course?
 https://cs50.harvard.edu/x/2020/
 
-[LinkedIn Felipe Nieto](https://www.linkedin.com/in/aayushmaan54/)
+[LinkedIn Aayushmaan Soni](https://www.linkedin.com/in/aayushmaan54/)
